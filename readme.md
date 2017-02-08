@@ -3,7 +3,6 @@
 This is a simple web application that shows a list of movies. When the user click on a movie poster, the trailer appears.
 This project is part of the [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
 
-This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
 
 ### Tech
 
