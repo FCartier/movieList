@@ -16,7 +16,7 @@ Here are the majors tech used in this project:
 
 Dillinger requires [Python](https://www.python.org/) 2.X to run.
 
-To run the project, make sure you have python installed. Then there are two ways to launch show the website.
+To run the project, make sure you have python installed. Then there are two ways to launch the website.
 
 #### Through your terminal
 Dowload the code and make sure you are into the movieList folder :
